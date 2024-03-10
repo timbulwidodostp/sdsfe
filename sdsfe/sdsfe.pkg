@@ -8,11 +8,7 @@ f sdsfe_p.ado
 f lsdsfe.mlib
 f sdsfe_postestimation.sthlp 
 f sdsfbc_ex1.dta 
-f sdsfbc_ex2.dta 
-f sdsfend_ex1.dta 
 f w_ex1.mmat 
-f w_ex2.mmat
-
 f xtsfsp.ado 
 f xtsfsp.sthlp 
 f lxtsfsp.mlib 
@@ -26,9 +22,3 @@ f xtsfspv.ado
 f xtsfspuv.ado 
 f xtsfspuv0.ado 
 f distinct2.ado 
-f xtsfsp_ex1.dta 
-f xtsfsp_ex2.dta 
-f xtsfsp_ex3.dta 
-f xtsfsp_w1.mmat 
-f xtsfsp_w2.mmat 
-f xtsfsp_w3.mmat
